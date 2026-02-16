@@ -47,8 +47,7 @@ Contributions are welcome! To contribute:
 3. Make your changes and commit: `git commit -m 'Add new feature'`
 4. Submit a pull request
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
 ## Screenshots
 (You can add relevant images from the `public/images` folder to illustrate the app.)
